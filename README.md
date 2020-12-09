@@ -2,6 +2,6 @@
 
 an auto clicker made in python
 how to install:
-1. install the requirements (the requirements are in requirements.txt)
+1. install the pyautogui python libary
 2. open autoclicker.py
 3. dosh!!!!!!!!!!!!!!!!!!!
